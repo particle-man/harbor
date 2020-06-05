@@ -33,7 +33,7 @@
     "@angular/router": "^8.2.0",
     "@clr/angular": "^2.2.0",
     "@clr/icons": "^2.2.0",
-    "@clr/ui": "^2.2.0",
+    "@clr/ui": "^2.4.2",
     "@fortawesome/fontawesome-free": "^5.1.0-4",
     "@ng-bootstrap/ng-bootstrap": "^5.1.1",
     "@ngx-translate/core": "^10.0.2",
