@@ -34,7 +34,7 @@
     "@clr/angular": "^2.2.0",
     "@clr/icons": "^2.2.0",
     "@clr/ui": "^2.2.0",
-    "@fortawesome/fontawesome-free": "^5.1.0-4",
+    "@fortawesome/fontawesome-free": "^5.13.0",
     "@ng-bootstrap/ng-bootstrap": "^5.1.1",
     "@ngx-translate/core": "^10.0.2",
     "@ngx-translate/http-loader": "^3.0.1",
